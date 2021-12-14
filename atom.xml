@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-07-08T08:45:09.659Z</updated>
+  <updated>2021-12-14T09:04:22.958Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="http://example.com/2021/12/14/%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5%E7%BB%95%E8%BF%87%E6%8A%80%E6%B3%95/"/>
     <id>http://example.com/2021/12/14/%E5%91%BD%E4%BB%A4%E6%B3%A8%E5%85%A5%E7%BB%95%E8%BF%87%E6%8A%80%E6%B3%95/</id>
     <published>2021-12-14T08:25:29.506Z</published>
-    <updated>2021-07-08T08:45:09.659Z</updated>
+    <updated>2021-12-14T09:04:22.958Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;命令分隔符&quot;&gt;&lt;a href=&quot;#命令分隔符&quot; class=&quot;headerlink&quot; title=&quot;命令分隔符&quot;&gt;&lt;/a&gt;命令分隔符&lt;/h3&gt;&lt;h5 id=&quot;cat-etc-passwd-ls&quot;&gt;&lt;a href=&quot;#cat-etc-passwd-ls&quot;</summary>
+    <summary type="html">&lt;p&gt;—​&lt;br&gt;命令注入绕过技法&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;命令分隔符&quot;&gt;&lt;a href=&quot;#命令分隔符&quot; class=&quot;headerlink&quot; title=&quot;命令分隔符&quot;&gt;&lt;/a&gt;命令分隔符&lt;/h3&gt;&lt;h5 id=&quot;cat-etc-passwd-ls&quot;&gt;&lt;a</summary>
         
       
     
